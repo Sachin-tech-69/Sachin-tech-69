@@ -5,7 +5,7 @@
 **Software Engineer · Full Stack Developer · IoT Enthusiast · Researcher**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sachin--tech--69.github.io-60a5fa?style=for-the-badge&logo=github&logoColor=white)](https://sachin-tech-69.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-kumar-606877289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-sihmar-606877289)
 [![Email](https://img.shields.io/badge/Email-sachinsihmar6935@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinsihmar6935@gmail.com)
 
 </div>
