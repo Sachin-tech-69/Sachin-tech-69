@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 B.E. Computer Science @ **Chandigarh University** (2023–27)
-- 🔬 **First Author** — Scopus + WoS indexed paper presented at 3 international conferences
+- 🔬 **Author** — Scopus + WoS indexed paper presented at 3 international conferences
 - 🛠️ Building full-stack systems, cloud infrastructure & IoT solutions
 - 📊 **8.2 CGPA** · **92 ATS Score**
 - 📍 Chandigarh, India
